@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.58.10](https://github.com/webstreamr/webstreamr/compare/v0.58.9...v0.58.10) (2025-12-15)
+
+
+### Miscellaneous Chores
+
+* **deps:** lock file maintenance ([#580](https://github.com/webstreamr/webstreamr/issues/580)) ([0164995](https://github.com/webstreamr/webstreamr/commit/01649955b1f66c4b2093972c7d8c2e3a09cfd1af))
+* **deps:** update dependency @types/node to v24.10.4 ([#579](https://github.com/webstreamr/webstreamr/issues/579)) ([5d412b7](https://github.com/webstreamr/webstreamr/commit/5d412b759f7e3e3233fd5c6423418bfd3ea4d028))
+* **deps:** update eslint monorepo to v9.39.2 ([#574](https://github.com/webstreamr/webstreamr/issues/574)) ([4f7a9d7](https://github.com/webstreamr/webstreamr/commit/4f7a9d725e69be926b3142453590a314913e83c5))
+
 ## [0.58.9](https://github.com/webstreamr/webstreamr/compare/v0.58.8...v0.58.9) (2025-12-12)
 
 
